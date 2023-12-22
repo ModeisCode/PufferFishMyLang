@@ -1,0 +1,55 @@
+
+// variables
+var char name : 'A';
+var int name : 50;
+var arr(int) name : {25,56,89,45};
+var long name : 9999999;
+var str name : "hello world";
+var byte name : b"0x00";
+// const variable
+const var int name : 50;
+
+// including
+var_name < value
+
+// increasing values
+name +< 1
+
+
+// class
+cls class_name 
+{
+	dest(){}
+	constr(){}
+}
+
+
+// functions
+fnc function_name (args,args,args) <return_type> <public> <static> 
+{
+    pr();
+}
+
+// calling functions
+function_name(args,args,args);
+
+while(){}
+
+for(var int name : 0,contional,increasing){}
+
+if (contional) {}
+elseif(){}
+else{}
+
+try{}
+catch{}
+
+
+OPCODES:
+*math
++,-,*,/,%
+*conditionals
+<<,>>,==,<<=,>>=,(!,not),and,or
+
+
+
